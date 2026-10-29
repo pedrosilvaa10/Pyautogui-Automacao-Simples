@@ -1,0 +1,1 @@
+# Pyautogui-Automa-o-Simples
