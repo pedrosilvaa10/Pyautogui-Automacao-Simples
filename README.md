@@ -1,1 +1,1 @@
-# Pyautogui-Automa-o-Simples
+# Pyautogui-Automacao Simples
